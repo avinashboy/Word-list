@@ -1,0 +1,914 @@
+[
+  {
+    "words": "Pliant",
+    "meaning": " pliant is adaptable and can bend easily with breaking"
+  },
+  {
+    "words": "Cognitive",
+    "meaning": "intellect,intelligent,high focus,vast amount of knowledge"
+  },
+  {
+    "words": "Statutory",
+    "meaning": "statutory warning laws"
+  },
+  {
+    "words": "Mediocre",
+    "meaning": "average or adequate in quality"
+  },
+  {
+    "words": "Unscathed",
+    "meaning": "uninjured,not hurt"
+  },
+  {
+    "words": "Repute",
+    "meaning": "high respect,a person's repute is how people think of him"
+  },
+  {
+    "words": "Tome",
+    "meaning": "heavy important book"
+  },
+  {
+    "words": "Abstinence",
+    "meaning": "give up certain behaviour or substance"
+  },
+  {
+    "words": "Acme",
+    "meaning": "highest point of achievement or excellence"
+  },
+  {
+    "words": "Abrasive",
+    "meaning": "unpleasant to be around"
+  },
+  {
+    "words": "Accentuate",
+    "meaning": "to pronounce with an accent or vocal stress;to bring out distinctly,to make prominent ,to emphasize"
+  },
+  {
+    "words": "Satire",
+    "meaning": "it is a way of criticizing people or ideas in a humorous way"
+  },
+  {
+    "words": "Pensive",
+    "meaning": " you are deep in thought in a sad way;sadly thoughtful"
+  },
+  {
+    "words": "Philanthropy",
+    "meaning": "unselfish support in the form of donating money,charity"
+  },
+  {
+    "words": "Temporal",
+    "meaning": "something that is temporal deals with present and somewhat brief time of this world"
+  },
+  {
+    "words": "Paradigm",
+    "meaning": "a way of thinking about ideas that tends to change over time;An example serving as a model or pattern"
+  },
+  {
+    "words": "Loquacious",
+    "meaning": "who talks too much;really talkative"
+  },
+  {
+    "words": "Unfazed",
+    "meaning": "to not be affected by something that happens to you,even if it is quite embarrassing or bothersome"
+  },
+  {
+    "words": "Requisite",
+    "meaning": "necessary,required, if something is requisite for a purpose it is needed"
+  },
+  {
+    "words": "Verbatim",
+    "meaning": "if you repeat something verbatim ,you use exactly the same words that were spoken or written(mugging up)"
+  },
+  {
+    "words": "Caricature",
+    "meaning": "exaggerated drawing ,a comical drawing that exaggerates the subject's physical traits"
+  },
+  {
+    "words": "Alleviate",
+    "meaning": "to make less severe,as a pain or difficulty, Alcohol is often a cheap tool to alleviate the stress of a worker"
+  },
+  {
+    "words": "Agnostic",
+    "meaning": "a person who holds to a form of agnosticism, especially uncertainty of the existence of a deity;she left the church when she became agnostic"
+  },
+  {
+    "words": "Adept",
+    "meaning": "well skilled, completely versed, thoroughly proficient,one who is fully skilled or well versed in anything"
+  },
+  {
+    "words": "Affliction",
+    "meaning": "a state of pain, suffering,distress or agony ,the cause of such a state"
+  },
+  {
+    "words": "Abridge",
+    "meaning": "to make shorter,to shorten in duration"
+  },
+  {
+    "words": "Fallacy",
+    "meaning": "a concept that is untrue ,It is an idea or belief that is false"
+  },
+  {
+    "words": "Chronic",
+    "meaning": "lasting suffering"
+  },
+  {
+    "words": "Tenacious",
+    "meaning": "determined,when you are tenacious,you do not quit until you finish what you've started"
+  },
+  {
+    "words": "Resonate",
+    "meaning": "it has a significant emotional effect and means something to you; affect meaningfully (not exactly point by point)"
+  },
+  {
+    "words": "Pinnacle",
+    "meaning": "top; if someone reaches a pinnacle of something,such as a career or mountain,they have arrived at the highest point of it(the summit)"
+  },
+  {
+    "words": "Ultimatum",
+    "meaning": "final offer;it is a final statement or final offer on an issue"
+  },
+  {
+    "words": "Flamboyant",
+    "meaning": "if someone is flamboyant,they are trying to show off in a way that deliberately attracts attention;showy; highly decorative and brightly colored"
+  },
+  {
+    "words": "Pare",
+    "meaning": "to reduce or lessen it"
+  },
+  {
+    "words": "Laborious",
+    "meaning": "requires a lot of effort ,a laborious job or process takes a long time,requires a lot of effort,and is often boring"
+  },
+  {
+    "words": "Exuberance",
+    "meaning": "enthusiasm, excitement and energy , if you show exuberance,you display great excitement , energy and enthusiasm"
+  },
+  {
+    "words": "Artifact",
+    "meaning": "made object),an artifact is a weapon,tool or piece of art that is created by human beings which is historically and culturally interesting"
+  },
+  {
+    "words": "Trite",
+    "meaning": "when it is completely lacking in originality or interest, overused;it is an idea that is overused"
+  },
+  {
+    "words": "Interminable",
+    "meaning": "something that is interminable continues for a very long time in a boring or annoying way;unending"
+  },
+  {
+    "words": "Denounce",
+    "meaning": "publicly criticize them in a severe way ;if you denounce people or actions,you critici them severely in public because you feel strongly that they or wrong or evil; condemn"
+  },
+  {
+    "words": "Pathogen",
+    "meaning": "causing germ"
+  },
+  {
+    "words": "Figurative",
+    "meaning": "when they have a deeper,more abstract meaning than their surface meaning"
+  },
+  {
+    "words": "Topical",
+    "meaning": "when it is something of current and popular interest;of current interest"
+  },
+  {
+    "words": "Enthrall",
+    "meaning": "if something enthralls you,it makes you so interested and excited that you give it all your attention;excite"
+  },
+  {
+    "words": "Acme",
+    "meaning": "highest point of achievement"
+  },
+  {
+    "words": "Usurp",
+    "meaning": "take it over without the proper authority to do so;take over;without permission"
+  },
+  {
+    "words": "Aesthetic",
+    "meaning": "a heightened sensitivity for beauty and art;The word aesthetic is used to talk about art,beauty,the study of beauty and appreciation of beautiful things"
+  },
+  {
+    "words": "Remnant",
+    "meaning": "what is left of it after most of the object is gone;remaining parts of it after the main part has been used or destroyed"
+  },
+  {
+    "words": "generic",
+    "meaning": " a generic description or attribute is not specific to any one thing but applies to all members of an entire class or group;common"
+  },
+  {
+    "words": "Emissary",
+    "meaning": "deputy;one who represents the interests of his or her country"
+  },
+  {
+    "words": "Liquidate",
+    "meaning": "to sell all assets and investments in order to pay debts;sell a business's inventory"
+  },
+  {
+    "words": "Divisive",
+    "meaning": "separating;when it causes people to become at odds with one another"
+  },
+  {
+    "words": "Taint",
+    "meaning": "to affect it in some way that spoils it;stain;to taint is to give an undesirable quality that damages a person's reputation or otherwise spoils something"
+  },
+  {
+    "words": "Arbitrary",
+    "meaning": "it appears to be put something together in a random fashion ;random"
+  },
+  {
+    "words": "Unison",
+    "meaning": "to be in total sympathy and agreement;doing something in unison is doing it all together at one time;doing together"
+  },
+  {
+    "words": "Despicable",
+    "meaning": " when one finds it extremely unpleasant and shameful;vile;if you say a person's action are despicable you think they are extremely unpleasant or nasty"
+  },
+  {
+    "words": "Plastic",
+    "meaning": "one that eagerly molds itself to others wishes;formable;a person who is plastic can be easily influenced and molded by others"
+  },
+  {
+    "words": "Forte",
+    "meaning": "a personal strength or expertise;speciality"
+  },
+  {
+    "words": "Luminous",
+    "meaning": " when it shines brightly; when something is luminous,it is bright and glowing"
+  },
+  {
+    "words": "Efficacy",
+    "meaning": "the extent to which something is effective and productive;efficacy is the ability or power to produce an expected effect or result;effectiveness"
+  },
+  {
+    "words": "Ornate",
+    "meaning": "it is highly or excessively decorated;very fancy"
+  },
+  {
+    "words": "Inert",
+    "meaning": "when something is inert,it has no movement or is inactive;it is not moving and appears to be lifeless"
+  },
+  {
+    "words": "Remedial",
+    "meaning": "when it is intended to fix or correct something else;corrective;a remedial action is intended to improve or correct something that is lacking in some way,such as one's education or health"
+  },
+  {
+    "words": "Conjecture",
+    "meaning": "an opinion based upon limited information;a conjecture is a theory or guess that is based on information that is not certain or complete;guess"
+  },
+  {
+    "words": "Nonchalant",
+    "meaning": " someone who is nonchalant is very relaxed and appears not to be worried about anything;unconcerned;when she seems unconcerned and calm"
+  },
+  {
+    "words": "Gravity",
+    "meaning": "when it is urgent and significant;the gravity of a situation or event is its seriousness or importance"
+  },
+  {
+    "words": "Tangible",
+    "meaning": "when it is factual and touchable; something that is tangible is able to be touched and thus is considered real;concrete"
+  },
+  {
+    "words": "Decipher",
+    "meaning": "to explain and making its meaning clear;when you decipher a message or piece of writing,you work out what it says ,even though it is very difficult to read or understand;figure out"
+  },
+  {
+    "words": "Ravenous",
+    "meaning": "when that person is extremely hungry;if you are ravenous,you are extremely hungry"
+  },
+  {
+    "words": "Stigma",
+    "meaning": "something that has a stigma is not socially acceptable;therefore,it has a strong feeling of shame or disagree attached to it;mark of social shame"
+  },
+  {
+    "words": "Oblivious",
+    "meaning": "unaware;if you are oblivious to something that is happening,you do not notice it"
+  },
+  {
+    "words": "Benign",
+    "meaning": "that person is kind and has a gentle,positive influence ;kind;if you describe a tumor as benign ,it will not cause death or serious harm"
+  },
+  {
+    "words": "Indoctrinate",
+    "meaning": "if you indoctrinate someone,you teach them a set of beliefs so thoroughly that they reject any other beliefs or ideas without any critical thought;influence"
+  },
+  {
+    "words": "Amenity",
+    "meaning": "services and facilities that make a dwelling more liveable,Amenities are things that make a place comfortable ,or easy to live in,such as hot water and sports facilities ;pleasant items"
+  },
+  {
+    "words": "Ensue",
+    "meaning": "when something ensues ,it happens after or as a result of another event;result"
+  },
+  {
+    "words": "Lucid",
+    "meaning": "that person speaks and thinks logically and soundly;if someone is lucid,they are able to understand things and think clearly;this adjective is always used when someone was not able to do this because of illness or confusion;lucid writing or speech is expressed in a way that is clear and easy to understand;think clearly"
+  },
+  {
+    "words": "Zealous",
+    "meaning": "filled with eagerness and devotion ;someone who is zealous spends a lot of time,energy and effort to support something(political or religious)because they believe in it very strongly;highly enthusiastic about"
+  },
+  {
+    "words": "Tedium",
+    "meaning": "if you are suffering from tedium ,you are bored ;boredom"
+  },
+  {
+    "words": "Connoisseur",
+    "meaning": "a talented authority and judge of the arts ;a connoisseur is someone who is an appreciative,informed and knowledgeable judge of the fine arts;they can also just have an excellent or perceptive taste in fine arts without being an expert;knowledgeable in fine arts"
+  },
+  {
+    "words": "Uncharted",
+    "meaning": "doing something unheard of and concealed in your experience;unknown;uncharted refers to something that has not been experienced before"
+  },
+  {
+    "words": "Abolish",
+    "meaning": "to make null and void ; if someone in authority abolishes a law or practice they formally put and end to it ;end"
+  },
+  {
+    "words": "Antiquated",
+    "meaning": "fashioned and not suitable for modern needs or conditions;obsolete"
+  },
+  {
+    "words": "Clemency",
+    "meaning": "if someone is granted clemency,they are punished less severely than they could have been, they have been shown mercy; forgiveness"
+  },
+  {
+    "words": "Rejuvenate",
+    "meaning": "to make that person feel younger and more energetic ;to rejuvenate one is to make him feel younger and strong again;to rejuvenate something is to make it like new once more ;refresh"
+  },
+  {
+    "words": "Disseminate",
+    "meaning": "to disseminate something,such as knowledge or information,is to distribute it so that it reaches a lot of people;distribute"
+  },
+  {
+    "words": "Nonpartisan",
+    "meaning": "a person or group is non partisan when it does not support the ideas of any particular political party or group;unbiased"
+  },
+  {
+    "words": "Apex",
+    "meaning": "the apex of anything,such as an organization or system,is its highest part or most important position;top,summit"
+  },
+  {
+    "words": "Bereaved",
+    "meaning": "a bereaved person is someone whose close friend or relative has recently died; deprived by death;have recently lost a close relative to death"
+  },
+  {
+    "words": "Dilapidated",
+    "meaning": "up;a dilapidated building,vehicle,etc, is old,broken down and in very bad condition;falling apart"
+  },
+  {
+    "words": "Calligraphy",
+    "meaning": "decorative and artistic handwriting;calligraphy is the art of beautiful handwriting using special pens or brushes;art of beautiful handwriting"
+  },
+  {
+    "words": "Affluence",
+    "meaning": "affluence is the state of having a lot of money and many possessions,granting one of high economic standard of living;wealth"
+  },
+  {
+    "words": "Vexing",
+    "meaning": "if a problem or situation is vexing,it means that it puzzles,worries,or annoys you;it is irritating and troubling"
+  },
+  {
+    "words": "Lustrous",
+    "meaning": "something that is lustrous shines in a soft and gentle way by reflecting light;shining"
+  },
+  {
+    "words": "Medley",
+    "meaning": "a medley is a collection of various things,such as different tunes in a song or different types of food in a meal; varying mixture"
+  },
+  {
+    "words": "Schematic",
+    "meaning": "a schematic diagram or picture shows the main parts of something in a single drawing that helps people understand it ;showing a layout"
+  },
+  {
+    "words": "Embellish",
+    "meaning": "if you embellish something , you make it more beautiful by decorating it,if you embellish a story you make it more interesting by adding details,especially ones that aren't quite true;decorate"
+  },
+  {
+    "words": "Chivalrous",
+    "meaning": "a chivalrous man behaves in a polite,kind,generous and honorable way ,especially towards women;honorable"
+  },
+  {
+    "words": "Defoliate",
+    "meaning": "someone defoliates a tree or plant by removing its leaves ,usually by applying a chemical agent;deleaf"
+  },
+  {
+    "words": "Benefaction",
+    "meaning": "a benefaction is a charitable contribution of money or assistance that someone gives to a person or organization;donation"
+  },
+  {
+    "words": "Obstinate",
+    "meaning": "an obstinate person refuses to change their mind,even when other people think they are highly unreasonable;stubborn"
+  },
+  {
+    "words": "Augment",
+    "meaning": "something that is vibrant is lively and full of energy in a way that is exciting and attractive;energetic"
+  },
+  {
+    "words": "Archaic",
+    "meaning": "something that is archaic is out of date or not currently used anymore because it is no longer considered useful or efficient,something archaic can also be something ancient,referring to earlier periods of time;old"
+  },
+  {
+    "words": "Mundane",
+    "meaning": "something that is mundane is very ordinary and not interesting or exciting, especially because it happens very often;ordinary"
+  },
+  {
+    "words": "Skeptic",
+    "meaning": "a skeptic is a person who doubts popular claims or facts about things that other people believe to be true;doubter"
+  },
+  {
+    "words": "Transcribe",
+    "meaning": "if you transcribe something , such as a speech or other text , you write it or type it in full copy;copy"
+  },
+  {
+    "words": "Disinterested",
+    "meaning": "someone does something in a disinterested way in which they have no personal involvement or attachment to the action;unbiased"
+  },
+  {
+    "words": "Encumber",
+    "meaning": "if something encumbers you,it makes it difficult for you to move freely or do what you want;burden"
+  },
+  {
+    "words": "Articulate",
+    "meaning": "if you describe someone as articulate ,you mean that they are able to express their thoughts,arguments and ideas clearly and effective;speaking clearly"
+  },
+  {
+    "words": "Inestimable",
+    "meaning": "when its worth cannot be measured;priceless"
+  },
+  {
+    "words": "Discern",
+    "meaning": "if you discern something,especially something that is not obvious,you notice,detect or perceive it,especially after thinking about it carefully or studying it;notice"
+  },
+  {
+    "words": "Refrain",
+    "meaning": "if you refrain from doing something ,you do not do it even though you want to;keep from doing"
+  },
+  {
+    "words": "Precursor",
+    "meaning": "a first event is precursor to second event if the first event is responsible for the development or existence of the second;forerunner"
+  },
+  {
+    "words": "Audacious",
+    "meaning": "an audacious person acts with great daring and sometimes reckless bravery despite risks and warnings from other people in order to achieve something:bold"
+  },
+  {
+    "words": "Excise",
+    "meaning": "when you excise something,you remove it by cutting it out,cut out,to remove it by extracting it; remove it"
+  },
+  {
+    "words": "Reciprocate",
+    "meaning": "if you reciprocate,you give something to someone because they have given something;exchange"
+  },
+  {
+    "words": "Callous",
+    "meaning": "a callous person's attitude is cruel,uncaring,and shows no concern for others whatsoever;heartless"
+  },
+  {
+    "words": "Profusion",
+    "meaning": "a profusion of something is a very large quantity or variety of it;a lot of"
+  },
+  {
+    "words": "Duplicity",
+    "meaning": "if you accuse someone of duplicity , you say that they are dishonest and are intending to trick you;deception"
+  },
+  {
+    "words": "Ambiguous",
+    "meaning": "if you describe something as ambiguous, you mean that it is so unclear or confusing because it can be understood in multiple ways;unclear"
+  },
+  {
+    "words": "Covet",
+    "meaning": "if you covet something that someone has,you have a strong desire to have it for yourself;desire strongly"
+  },
+  {
+    "words": "Delectable",
+    "meaning": "if you describe something,especially food and drink as delectable,you mean that it is very pleasant,tasty or attractive;delicious"
+  },
+  {
+    "words": "Curtail",
+    "meaning": "if you curtail something,you reduce or limit it;make less"
+  },
+  {
+    "words": "Lethargic",
+    "meaning": "if you are lethargic ,you are tired,lack energy and are unwilling to exert effort;lazy"
+  },
+  {
+    "words": "Expedite",
+    "meaning": "when you expedite an action or process,you make it happen more quickly;speed up"
+  },
+  {
+    "words": "Abrasive",
+    "meaning": "someone who has an abrasive manner is unkind and rude,wearing away at you in an irritating fashion;annoying"
+  },
+  {
+    "words": "Incongruous",
+    "meaning": "something that is incongruous is strange when considered along with its group because it seems very different from the other things in the group ;out of place"
+  },
+  {
+    "words": "Pertinent",
+    "meaning": "something that is pertinent is directly related or relevant to the subject under consideration;relevant"
+  },
+  {
+    "words": "Condescend",
+    "meaning": "when people condescend,they behave in ways that show that they are supposedly more important or intelligent than other people;act in a superior way"
+  },
+  {
+    "words": "Unadorned",
+    "meaning": "something that is unadorned is not made more attractive with ornament or decoration;plain"
+  },
+  {
+    "words": "Insipid",
+    "meaning": "something insipid is dull,boring and has no interesting features;insipid food has no taste or little flavor;bland"
+  },
+  {
+    "words": "Parody",
+    "meaning": "a parody is a humorous imitation of more serious writing or music;humorous imitation"
+  },
+  {
+    "words": "Advocate",
+    "meaning": "when you advocate a plan or action,you publicly push for implementing it;support"
+  },
+  {
+    "words": "Hypothetical",
+    "meaning": "something that is hypothetical is based on possible situation or events rather than actual ones;theoretical"
+  },
+  {
+    "words": "Frugal",
+    "meaning": "someone who is frugal spends very little money and only on things that are absolutely necessary;careful with money"
+  },
+  {
+    "words": "Paradox",
+    "meaning": "contradictory or unrealistic but may surprisingly express a possible truth ;contradiction"
+  },
+  {
+    "words": "Objective",
+    "meaning": "if someone is objective,they base their opinions on facts rather than personal feelings or beliefs;fair"
+  },
+  {
+    "words": "Incarcerate",
+    "meaning": "if you incarcerate someone ,you put them in prison;put in jail"
+  },
+  {
+    "words": "Unfeasible",
+    "meaning": "something unfeasible cannot be made or achieved ;impractical"
+  },
+  {
+    "words": "Empathy",
+    "meaning": "empathy is the ability to understand how people feel because you imagine what is to be like them;understanding of another"
+  },
+  {
+    "words": "Impassive",
+    "meaning": "if someone is impassive,they are not showing any emotion;unemotional"
+  },
+  {
+    "words": "Alleviate",
+    "meaning": "if you alleviate pain or suffering ,you make it less intense or severe;relieve"
+  },
+  {
+    "words": "Apathy",
+    "meaning": "apathy is a lack of interest or unenthusiastic involvement in an activity,there is no effort to change or improve it all;lack of interest"
+  },
+  {
+    "words": "Omniscient",
+    "meaning": "someone who is omniscient seems to know absolutely everything;all knowing"
+  },
+  {
+    "words": "Imminent",
+    "meaning": "an imminent event,especially an event that is unpleasant ,is almost certain to happen within the very near future;happening soon"
+  },
+  {
+    "words": "Contagion",
+    "meaning": "a contagion is a disease that is easily transferred from one person to another through touch or air;a contagion can also be a bacteria or virus that is cause of illness;infection"
+  },
+  {
+    "words": "Elude",
+    "meaning": "if an idea eludes you,you cannot remember;if you elude someone,you manage to escape"
+  },
+  {
+    "words": "Irrefutable",
+    "meaning": "an irrefutable argument or statement cannot be proven wrong; it must be accepted because it is certain; beyond dispute"
+  },
+  {
+    "words": "Conjugal",
+    "meaning": "the adjective conjugal refers to marriage or the relationship between two married people;marital"
+  },
+  {
+    "words": "Adept",
+    "meaning": "when you are adept at something,you are very good,skillful or talented at it ;thoroughly skilled"
+  },
+  {
+    "words": "Metaphor",
+    "meaning": "a metaphor is a word or phrase that means one thing but is used to describe something else in order to highlight similar qualities;comparison"
+  },
+  {
+    "words": "Acclimate",
+    "meaning": "when you acclimate yourself to a new situation or environment,you adapt and get used to it;adjust"
+  },
+  {
+    "words": "Paragon",
+    "meaning": "a paragon is an example of a thing or person at its best or their very best;best example of"
+  },
+  {
+    "words": "Contingent",
+    "meaning": "if something is contingent upon something else , the first thing depends upon the second thing; contingent plans are possible and probably will occur but not with absolute certainty;dependent"
+  },
+  {
+    "words": "Abstinence",
+    "meaning": "abstinence is the practice of keeping away from or avoiding something you enjoy,such as food and drink for health or religious reasons;restraint"
+  },
+  {
+    "words": "Exorbitant",
+    "meaning": "an exorbitant price or fee is much higher than what it should be or what is considered reasonable;excessive"
+  },
+  {
+    "words": "Affliction",
+    "meaning": "an affliction is something that causes pain and mental suffering,especially a medical condition;suffering"
+  },
+  {
+    "words": "Impregnable",
+    "meaning": "an impregnable opinion or feeling is very difficult to change;an impregnable defense is very difficult to defeat or overcome ;unyielding"
+  },
+  {
+    "words": "Eccentric",
+    "meaning": "if someone is eccentric,they behave in a strange and unusual way that is different from most people;unusual"
+  },
+  {
+    "words": "Coalition",
+    "meaning": "coalition is a temporary union of different political or social groups that agrees to work together to achieve a shared aim;allied group"
+  },
+  {
+    "words": "Accentuate",
+    "meaning": "to accentuate something is to emphasize it or make it more noticeable;draw focus to"
+  },
+  {
+    "words": "Empirical",
+    "meaning": "empirical evidence or study is based on real experience or scientific experiments rather than on unproven theories;observable"
+  },
+  {
+    "words": "Affiliation",
+    "meaning": "if you have an affiliation with a group or another person,you are officially involved or connected with them;association"
+  },
+  {
+    "words": "Perennial",
+    "meaning": "something that is perennial last a very long time and is enduring;enduring"
+  },
+  {
+    "words": "Coerce",
+    "meaning": "you coerce people when you force them to do something that they don't want to do;compel"
+  },
+  {
+    "words": "Indigenous",
+    "meaning": "living things are indigenous to a region or country if they originated there,rather than coming from another area of the world;native"
+  },
+  {
+    "words": "Irrevocable",
+    "meaning": "an irrevocable action or decision is impossible to change,reverse or stop;unchangeable"
+  },
+  {
+    "words": "Antagonist",
+    "meaning": "one who is a rival or competitor against another;your antagonist is an opponent in a competition or battle;opponent"
+  },
+  {
+    "words": "if you abridge a book or play ,you make it shorter by making cuts to the original;shorten\n\n\n",
+    "meaning": "if you abridge a book or play ,you make it shorter by making cuts to the original;shorten"
+  },
+  {
+    "words": "Homogeneous",
+    "meaning": "the word homogeneous is used to describe a group that has members or parts which are similar or all of same type;similar"
+  },
+  {
+    "words": "Ambidextrous",
+    "meaning": "equally skilled with both hands"
+  },
+  {
+    "words": "Suffrage",
+    "meaning": "suffrage is the right of people to vote in public elections;right to vote"
+  },
+  {
+    "words": "Farce",
+    "meaning": "a situation or event is a farce,if it is badly organized and consequently unsuccessful or so silly and ridiculous that you cannot take it seriously;abject failure"
+  },
+  {
+    "words": "Condone",
+    "meaning": "if you condone someone's behaviour,you go along with it and provide silent support for it,despite doubts about it;treat as acceptable"
+  },
+  {
+    "words": "Skittish",
+    "meaning": "skittish persons or animals are made easily nervous or alarmed;they are likely to change behaviour quickly and predictable;very nervous"
+  },
+  {
+    "words": "Tentative",
+    "meaning": "to be tentative is to be hesitant or uncertain about something;a tentative agreement or decision is likely to have changes before it reaches its final form;cautious"
+  },
+  {
+    "words": "Plagiarism",
+    "meaning": "plagiarism is the copying of another person's work,ideas,or words and pretending that you created or thought of them;copying"
+  },
+  {
+    "words": "Lacerate",
+    "meaning": "if something lacerates you,it makes a deep cut in your flesh;tear"
+  },
+  {
+    "words": "Metamorphosis",
+    "meaning": "change in appearance ,character, or even physical shape;transformation"
+  },
+  {
+    "words": "Hallowed",
+    "meaning": "something that is hallowed is respected and admired,usually because it is holy or important in some way;holy"
+  },
+  {
+    "words": "Veneer",
+    "meaning": "a thin cover used to be misleading,thin layer;false front"
+  },
+  {
+    "words": "Meticulous",
+    "meaning": "someone is considered meticulous when they act with careful attention to detail;precise attention to detail"
+  },
+  {
+    "words": "Fester",
+    "meaning": "if a wound festers,it becomes infected,making it worse;decay"
+  },
+  {
+    "words": "Lattice",
+    "meaning": "lattice is a pattern or structure that has parallel set of lines of material crossing each other,often at right angles;mesh"
+  },
+  {
+    "words": "Permeate",
+    "meaning": "when a substance permeates something,it enter into all parts of it;to soak it through with something else;soak throughout"
+  },
+  {
+    "words": "Amenable",
+    "meaning": "if you are amenable to doing something you willingly accept it without arguing;willing"
+  },
+  {
+    "words": "Melancholy",
+    "meaning": "if you are melancholy,you look and feel sad;gloomy"
+  },
+  {
+    "words": "Rhetoric",
+    "meaning": "rhetoric is the skill or art of using language to persuade or influence people,especially language that sounds impressive but may ot be sincere or honest;persuasive speech"
+  },
+  {
+    "words": "Tether",
+    "meaning": "a tether is a restraint,such as a leash,rope or chain that holds something in a place;fastening"
+  },
+  {
+    "words": "Squander",
+    "meaning": "if you squander time,money or other valuable resources,you use them wastefully and unwisely ;waste"
+  },
+  {
+    "words": "Pervasive",
+    "meaning": "if something is pervasive,it appears to be everywhere;widespread"
+  },
+  {
+    "words": "Coddle",
+    "meaning": "to coddle someone is to offer too much protection from harm or difficult experiences;be overprotective"
+  },
+  {
+    "words": "Heretic",
+    "meaning": "a heretic is someone who does or believes things that oppose commonly or generally accepted beliefs;doubts widespread beliefs"
+  },
+  {
+    "words": "Astute",
+    "meaning": "when you describe someone as astute,you think they quickly understand situation or behaviour and use it to their advantage;perceptive"
+  },
+  {
+    "words": "Tepid",
+    "meaning": "a tepid reaction to something is mild,unemotional and lacking in enthusiasm;unenthusiastic"
+  },
+  {
+    "words": "Anarchy",
+    "meaning": "a state of anarchy occurs when there is no organization or order in a nation or country,especially when no effective government exist;lawlessness"
+  },
+  {
+    "words": "Pristine",
+    "meaning": "something that is pristine has not lost any of its original position or purity;spotless"
+  },
+  {
+    "words": "Nostalgic",
+    "meaning": "that person remembers the past with happiness and longingly wishes for it to return"
+  },
+  {
+    "words": "Quaver",
+    "meaning": "to quaver is to shake or tremble especially when speaking;tremble"
+  },
+  {
+    "words": "Agnostic",
+    "meaning": "one who doubts that any essential divine truth is knowable;doubter"
+  },
+  {
+    "words": "Gaunt",
+    "meaning": "if someone looks gaunt ,they are very thin,usually because they are ill,tired or worried;extremely thin"
+  },
+  {
+    "words": "Steadfast",
+    "meaning": "fully committed to an idea or steady in belief or behaviour; loyal"
+  },
+  {
+    "words": "Forage",
+    "meaning": "to seek for it,such as keys,coins in your purse;when animals forage they search for food in a wide area;search"
+  },
+  {
+    "words": "Boisterous",
+    "meaning": "to be noisy and somewhat lacking in restraint; noisy and wild"
+  },
+  {
+    "words": "Quorum",
+    "meaning": "the numbers required so that a group can legally make decisions;majority"
+  },
+  {
+    "words": "Rant",
+    "meaning": "to rant is to go on an angry verbal attack;extended yelling"
+  },
+  {
+    "words": "Tantalize",
+    "meaning": "when it is very desirable but not attainable;tease"
+  },
+  {
+    "words": "Refurbish",
+    "meaning": "you fix it or improve it somehow;fix up"
+  },
+  {
+    "words": "Austere",
+    "meaning": "something austere is simple and plain in its style;an austere person is strict and severe with themselves;having strict practices"
+  },
+  {
+    "words": "Lucrative",
+    "meaning": "if a business is lucrative,it makes a lot of money;profitable"
+  },
+  {
+    "words": "Zenith",
+    "meaning": "the zenith of something is its highest,most powerful or most successful point;top"
+  },
+  {
+    "words": "Quack",
+    "meaning": "a quack is someone who pretends to be qualified to do something ,but really is not;fake"
+  },
+  {
+    "words": "Emulate",
+    "meaning": "to act as that person does out of admiration;copy"
+  },
+  {
+    "words": "Pragmatic",
+    "meaning": "when someone has efficient, down to earth ideas;sensible"
+  },
+  {
+    "words": "Formidable",
+    "meaning": "if something is formidable,it is impressive in size,power,orskill;it can make you feel frightened,alarmed or in awe because it is powerful or difficult to deal with;impressively powerful"
+  },
+  {
+    "words": "Quarantine",
+    "meaning": "when people or animals are quarantined ,they are part in isolation so that they will not spread disease;isolation"
+  },
+  {
+    "words": "Trifle",
+    "meaning": "if you refer to something as a trifle,you mean that it is of little or no importance or value;thing of little value"
+  },
+  {
+    "words": "Sinister",
+    "meaning": "something sinister makes you feel that an evil ,bad or harmful thing is about to happen;threatening evil"
+  },
+  {
+    "words": "Ramble",
+    "meaning": "to wander slowly without a set plan for arrival;wander"
+  },
+  {
+    "words": "Gullible",
+    "meaning": "a gullible person is easy to trick because they are too trusting of other people;entirely too trusting"
+  },
+  {
+    "words": "Prophetic",
+    "meaning": "something or someone that is prophetic has the quality or ability to predict the future;predictive"
+  },
+  {
+    "words": "Waver",
+    "meaning": "if you waver,you cannot decide between two things because you have serious doubts about which choice is better;be indecisive"
+  },
+  {
+    "words": "Caliber",
+    "meaning": "the caliber of a person is the level or quality of their ability,intelligence,and other talents;degree of worth"
+  },
+  {
+    "words": "Flippant",
+    "meaning": "when a person is being flippant,they are not taking something as seriously as they should be;they tend to dismiss things they should respectfully pay attention to ;that person is being disrespectful"
+  },
+  {
+    "words": "Garbled",
+    "meaning": "when it is corrupted,hurried and hard to figure out;confused"
+  },
+  {
+    "words": "Riveted",
+    "meaning": "when it fully occupies your attention;absorbed"
+  },
+  {
+    "words": "Fiasco",
+    "meaning": "if an event becomes a fiasco,it is a complete and embarrassing failure;disaster"
+  },
+  {
+    "words": "Clique",
+    "meaning": "a clique is a group of people that spends a lot of time together and tends to be unfriendly towards people who are not part of the group;inner circle"
+  },
+  {
+    "words": "Raucous",
+    "meaning": "a raucous sound is unpleasantly loud,harsh and noisy;obnoxiously loud"
+  }
+]
