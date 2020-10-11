@@ -40,12 +40,12 @@
   
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
-        <li class="nav-item active">
+<!--         <li class="nav-item active">
           <sapn class="nav-link text-info navbarss" onclick="getPlay()" href="#"><i class="fas fa-play"></i></sapn>
         </li>
         <li class="nav-item active" id="changes">
           <sapn class="nav-link text-info navbarss" onclick="getPlay()" href="#"><span id="change"><i class="fas fa-volume-up"></i></span></sapn>
-        </li>
+        </li> -->
       </ul>
       <form class="form-inline my-2 my-lg-0" id="search-books">
         <input class="form-control mr-sm-2"  id="myInput" type="search" placeholder="Search" aria-label="Search">
@@ -104,7 +104,7 @@
         <div class="col-sm mt-2 mb-2">
         <div class="card hover" style="width: 18rem;">
           <div class="card-body"id=${idnumber()}>
-            <h5 class="card-title text-info speaker">${words}</h5>
+            <h5 class="card-title text-info speaker">${words.charAt(0).toUpperCase() + words.slice(1)}</h5>
             <p class="card-text">${meaning}</p>
           </div>
         </div>
