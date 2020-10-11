@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="google" content="notranslate">
+  <meta name="og:description" content="too learn about word meaning">
+  <meta name="og:url" content="">
+  <meta name="og:title" content="Words">
+  <meta name="og:image" content="https://i.ibb.co/dKGC2nz/logo.png">
+  <link rel="shortcut icon" href="https://i.ibb.co/dKGC2nz/logo.png" type="image/x-icon">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"/>
+  <link href="https://fonts.googleapis.com/css2?family=Chilanka&display=swap" rel="stylesheet">
+  <title>Words</title>
+  <style>
+    .navbarss{
+      cursor: pointer;
+      font-size: 18px;
+    }
+
+    #changes{
+      display: none;
+    }
+
+  </style>
+</head>
+<body>
+  
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">
+      <img src="https://i.ibb.co/dKGC2nz/logo.png" width="30" height="30" alt="" loading="lazy">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <sapn class="nav-link text-info navbarss" onclick="getPlay()" href="#"><i class="fas fa-play"></i></sapn>
+        </li>
+        <li class="nav-item active" id="changes">
+          <sapn class="nav-link text-info navbarss" onclick="getPlay()" href="#"><span id="change"><i class="fas fa-volume-up"></i></span></sapn>
+        </li>
+      </ul>
+      <form class="form-inline my-2 my-lg-0" id="search-books">
+        <input class="form-control mr-sm-2"  id="myInput" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-info my-2 my-sm-0" type="submit"><i class="fas fa-search"></i></button>
+      </form>
+    </div>
+  </nav>
+
+
+  <div class="container-fluid">
+    <div class="row query" id="query"></div>
+  </div>
+  
+  <footer id="footer" class="text-center text-info" style="font-family: 'Chilanka', cursive;"></footer>
+  <script>
+    let index = 0,offset = 30
+    const query = document.querySelectorAll('.query')
+    const playBtn = document.querySelectorAll('.playBtn')
+    const list = document.getElementById("query");
+    let speech = new SpeechSynthesisUtterance();
+    speech.lang = 'en';
+    speech.rate = 1;
+    speech.volume = 1;
+    speech.pitch = 1;
+    function call(){
+      $.ajax({
+    url: 'https://raw.githubusercontent.com/avinashboy/Word-list/main/words.json',
+    dataType: 'json',
+    cache: false,
+    success: function (data) {
+      getData(data)
+      
+    }.bind(this),
+    error: function (xhr, status, err) {
+      console.log(err);
+      alert(err);
+    }
+  });
+    }
+    call()
+
+  function to_speak(texts) {return speech.text = texts,window.speechSynthesis.speak(speech)}
+
+  function idnumber() {return Math.random().toString(36).substring(7);}
+
+  $(window).scroll(function() {
+      if ($(window).scrollTop() == $(document).height() - $(window).height()){
+
+        return call()
+    }
+    })
+    
+  function getData(d){
+        function em(words,meaning, number) {
+        return `
+        <div class="col-sm mt-2 mb-2">
+        <div class="card hover" style="width: 18rem;">
+          <div class="card-body"id=${idnumber()}>
+            <h5 class="card-title text-info speaker">${words}</h5>
+            <p class="card-text">${meaning}</p>
+          </div>
+        </div>
+      </div>
+        `
+      }
+      try {
+        for (index ; index < offset; index++) {
+        document.getElementById('query').innerHTML += em(d[index].words,d[index].meaning, index) 
+        }
+        index += 10
+        offset += 30
+      }
+      catch(err) {
+        console.log(err)
+        document.getElementById('footer').innerHTML = `
+        <span>Add more Words in Future...😉<span><br>
+          <span><i class="far fa-copyright"></i>&nbsp;<span>${(new Date).getFullYear()}</span>. All rights reserved
+  </span>
+        `
+      }
+      
+      
+    }
+    
+  function getResult(e){
+      tempId = e.path[1].id
+      $("#changes").fadeIn()
+      document.title = ""
+      document.title = `Your word ${$(`#${tempId}`).children()[0].innerText} `
+      to_speak($(`#${tempId}`).children()[0].innerText)
+      to_speak($(`#${tempId}`).children()[1].innerText)
+    }
+
+    // pending
+    function getPlay(){
+      ul = document.getElementById("query");
+      li = ul.getElementsByTagName("h5");
+      p = ul.getElementsByTagName("p");
+
+      Array.from(li).forEach(element => {
+        
+        setTimeout(() => { to_speak(element.textContent) }, 1000);
+      });
+      
+    }
+
+    const searchBar = document.getElementById('myInput')
+    searchBar.addEventListener('keyup', function(e){
+      const term = e.target.value.toLowerCase()
+      const eachList = list.getElementsByTagName("h5");
+      Array.from(eachList).forEach(function(name){
+        const title = name.innerText || name.textContent
+        if(title.toLowerCase().indexOf(term) != -1){
+          name.parentElement.parentElement.style.display = "block"
+        } else {
+          name.parentElement.parentElement.style.display = "none"
+        }
+      })
+
+    })
+    
+    query.forEach((data) => data.addEventListener('click', getResult))
+  </script>
+</body>
+</html>
